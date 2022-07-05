@@ -1,0 +1,6 @@
+server:
+  port: 8887
+
+
+jwt:
+  secret: secretkey123
